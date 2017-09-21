@@ -13,10 +13,10 @@ doToElementsInArray(animals, changeCompletely);
 
 // log out animals -- pretty cool, right?
 console.log(animals);
- 
+
 var animals = ["dog", "cat", "squirrel"];
- 
+
 doToElementsInArray(animals, changeCompletely);
- 
+
 // log out animals -- pretty cool, right?
 console.log(animals);
